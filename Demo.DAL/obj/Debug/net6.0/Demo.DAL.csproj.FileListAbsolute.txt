@@ -1,0 +1,12 @@
+D:\fullStack\Back-end\assignment\assignment25\MVCproject\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\fullStack\Back-end\assignment\assignment25\MVCproject\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\fullStack\Back-end\assignment\assignment25\MVCproject\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\fullStack\Back-end\assignment\assignment25\MVCproject\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\fullStack\Back-end\assignment\assignment25\MVCproject\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\fullStack\Back-end\assignment\assignment25\MVCproject\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\fullStack\Back-end\assignment\assignment25\MVCproject\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\fullStack\Back-end\assignment\assignment25\MVCproject\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\fullStack\Back-end\assignment\assignment25\MVCproject\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\fullStack\Back-end\assignment\assignment25\MVCproject\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+D:\fullStack\Back-end\assignment\assignment25\MVCproject\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\fullStack\Back-end\assignment\assignment25\MVCproject\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll

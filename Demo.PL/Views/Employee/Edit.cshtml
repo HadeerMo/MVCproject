@@ -1,0 +1,33 @@
+﻿@model EmployeeViewModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2 class="mb-4">Update Employee</h2>
+<form asp-action="Edit" enctype="multipart/form-data">
+    <input hidden asp-for="Id"/>
+    
+    <partial name="PartialViews/CreateEditEmployeeView" />
+    <div class="form-group">
+        <label asp-for="Image" class="col-form-label d-block"></label>
+        @*<img src="~/files/Images/@Model.ImageName" class="img-fluid w-25 h-25"/>*@
+        <div class="w-50 my-4">
+            <p class="d-inline h4">Edit image..</p>
+            <input asp-for="Image" />
+        </div>
+
+    </div>
+    
+    @*<a class="btn btn-light d-block text-dark w-25 my-4">
+        <input class="custom-file-input w-25 text-dark" type="file">
+    </a>*@
+    <input class="btn btn-primary" type="submit" value="Save" />|
+    <a asp-action="Index" class="btn btn-light">Back to List</a>
+
+</form>
+
+@section validationScriptSection{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
